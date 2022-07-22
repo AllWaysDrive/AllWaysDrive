@@ -25,6 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+https://sun9-57.userapi.com/impg/JdBRhksShgKjKEP_z4tdBQzGXUyocyj5R4bSXQ/GZOyUTI9v-0.jpg?size=1807x1807&quality=95&sign=cf1a99ed954e73f822dc62f61c2eee44&type=album
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
