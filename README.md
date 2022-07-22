@@ -1,5 +1,7 @@
-## Добро пожаловать на страничку автоклуба "Куда-то едем"
-<img src="allwaysdrive.jpg">
+## Добро пожаловать на страничку автоклуба "Куда-нибудь поедем"
+<body style="background-image:url(allwaysdrive.jpg)">
+
+</body>
 
 ### Мы во ВКонтакте
 https://vk.com/kudanibud.avtoputeshestvya
